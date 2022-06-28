@@ -6,7 +6,7 @@ from typing import IO
 
 from pysilk._silk import ffi, lib
 
-__version__ = "0.1.0.dev1"
+__version__ = "0.1.0.rc1"
 
 
 class SilkError(Exception):
